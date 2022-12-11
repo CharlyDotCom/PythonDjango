@@ -7,7 +7,10 @@ Realizar una aplicación funcional con formulario y almacenamiento de datos en S
 
 
 ## Elementos del proyecto 
-   
+Este proyecto consta de una sola aplicación [myapp] y un modelo de datos con 
+dos conceptos: Project y Task, con relación de pertenencia: a un proyecto 
+pertenecen 0, 1 ó mas tareas.
+
 ## Configurar el proyecto.
 Se ha instalado un entorno virtual env, y para instalarlo ejecutamos desde 
 la linea de comandos:
