@@ -15,8 +15,11 @@ pertenecen 0, 1 ó mas tareas.
 ## Configurar el proyecto.
 Se ha instalado un entorno virtual env, y para instalarlo ejecutamos desde 
 la linea de comandos:
-    PS C:\fuentes\PythonDjango> .\env\scripts\activate
-    (env) PS C:\fuentes\PythonDjango> 
+    `PS C:\fuentes\PythonDjango> .\env\scripts\activate`
+    `(env) PS C:\fuentes\PythonDjango>` 
+Crear el entorno por primera vez:
+    `$ python -m virtualenv .venv`
+    `$ pip install -r requirements.txt`
 
 ## Ejecutar la aplicación
 Despues de activar el entorno.
